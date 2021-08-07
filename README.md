@@ -13,8 +13,8 @@
 
 <br />
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="informagico | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="informagico | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="informagico | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -23,15 +23,15 @@
 
 <br />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./assets/icons/vsc.png" />
-<img align="left" alt="Visual Studio" width="26px" src="./assets/icons/vs.png" />
-<img align="left" alt="Git" width="26px" src="./assets/icons/git.png" />
-<img align="left" alt="GitHub" width="26px" src="./assets/icons/github.png" />
-<img align="left" alt="SVN" width="26px" src="./assets/icons/svn.png" />
-<img align="left" alt="C#" width="26px" src="./assets/icons/csharp.png" />
-<img align="left" alt=".NET" width="26px" src="./assets/icons/dotnet.png" />
-<img align="left" alt="C" width="22px" src="./assets/icons/c.png" />
-<img align="left" alt="C++" width="22px" src="./assets/icons/cplusplus.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
+<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
+<img align="left" alt="SVN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/subversion.svg" />
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/csharp.svg" />
+<img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg" />
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" />
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />
 
 <br />
 <br />
