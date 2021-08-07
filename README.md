@@ -11,8 +11,6 @@
 
 ### 🔌 &nbsp;Connections
 
-<br />
-
 [<img align="left" alt="informagico | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="informagico | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][instagram]
 
@@ -20,8 +18,6 @@
 <br />
 
 ### 🥷 &nbsp;Weapons
-
-<br />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" />
