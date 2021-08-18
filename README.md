@@ -37,10 +37,10 @@
 ### GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/informagico/vscode-lua-minify/pull/3) in [informagico/vscode-lua-minify](https://github.com/informagico/vscode-lua-minify)
-2. 🎉 Merged PR [#2](https://github.com/informagico/vscode-lua-minify/pull/2) in [informagico/vscode-lua-minify](https://github.com/informagico/vscode-lua-minify)
-3. 🗣 Commented on [#4](https://github.com/informagico/vscode-lua-minify/issues/4) in [informagico/vscode-lua-minify](https://github.com/informagico/vscode-lua-minify)
-4. 🗣 Commented on [#70](https://github.com/pmahend1/PrettyXML/issues/70) in [pmahend1/PrettyXML](https://github.com/pmahend1/PrettyXML)
+1. 💪 Opened PR [#9](https://github.com/lukeliasi/binance-dca-bot/pull/9) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
+2. 🎉 Merged PR [#3](https://github.com/informagico/vscode-lua-minify/pull/3) in [informagico/vscode-lua-minify](https://github.com/informagico/vscode-lua-minify)
+3. 🎉 Merged PR [#2](https://github.com/informagico/vscode-lua-minify/pull/2) in [informagico/vscode-lua-minify](https://github.com/informagico/vscode-lua-minify)
+4. 🗣 Commented on [#4](https://github.com/informagico/vscode-lua-minify/issues/4) in [informagico/vscode-lua-minify](https://github.com/informagico/vscode-lua-minify)
 5. 🗣 Commented on [#70](https://github.com/pmahend1/PrettyXML/issues/70) in [pmahend1/PrettyXML](https://github.com/pmahend1/PrettyXML)
 <!--END_SECTION:activity-->
 
