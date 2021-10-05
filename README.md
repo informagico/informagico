@@ -37,11 +37,11 @@
 ### GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/lukeliasi/binance-dca-bot/issues/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
-2. 💪 Opened PR [#10](https://github.com/lukeliasi/binance-dca-bot/pull/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
-3. 💪 Opened PR [#9](https://github.com/lukeliasi/binance-dca-bot/pull/9) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
-4. 🎉 Merged PR [#3](https://github.com/informagico/vscode-lua-minify/pull/3) in [informagico/vscode-lua-minify](https://github.com/informagico/vscode-lua-minify)
-5. 🎉 Merged PR [#2](https://github.com/informagico/vscode-lua-minify/pull/2) in [informagico/vscode-lua-minify](https://github.com/informagico/vscode-lua-minify)
+1. ❌ Closed PR [#1](https://github.com/informagico/A2L.Net/pull/1) in [informagico/A2L.Net](https://github.com/informagico/A2L.Net)
+2. 💪 Opened PR [#6](https://github.com/kesavaprasadarul/A2L.Net/pull/6) in [kesavaprasadarul/A2L.Net](https://github.com/kesavaprasadarul/A2L.Net)
+3. 💪 Opened PR [#1](https://github.com/informagico/A2L.Net/pull/1) in [informagico/A2L.Net](https://github.com/informagico/A2L.Net)
+4. 🗣 Commented on [#10](https://github.com/lukeliasi/binance-dca-bot/issues/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
+5. 💪 Opened PR [#10](https://github.com/lukeliasi/binance-dca-bot/pull/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
 <!--END_SECTION:activity-->
 
 ---
