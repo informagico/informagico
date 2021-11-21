@@ -37,11 +37,11 @@
 ### GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/lukeliasi/binance-dca-bot/issues/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
-2. 💪 Opened PR [#18](https://github.com/lukeliasi/binance-dca-bot/pull/18) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
-3. ❌ Closed PR [#10](https://github.com/lukeliasi/binance-dca-bot/pull/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
-4. 🗣 Commented on [#10](https://github.com/lukeliasi/binance-dca-bot/issues/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
-5. 🎉 Merged PR [#1](https://github.com/informagico/A2L.Net/pull/1) in [informagico/A2L.Net](https://github.com/informagico/A2L.Net)
+1. 💪 Opened PR [#22](https://github.com/lukeliasi/binance-dca-bot/pull/22) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
+2. 🗣 Commented on [#10](https://github.com/lukeliasi/binance-dca-bot/issues/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
+3. 💪 Opened PR [#18](https://github.com/lukeliasi/binance-dca-bot/pull/18) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
+4. ❌ Closed PR [#10](https://github.com/lukeliasi/binance-dca-bot/pull/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
+5. 🗣 Commented on [#10](https://github.com/lukeliasi/binance-dca-bot/issues/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
 <!--END_SECTION:activity-->
 
 ---
