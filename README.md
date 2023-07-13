@@ -1,6 +1,8 @@
 ### It's-a me, Alessandro 🍄
 
-![Alt Text](./assets/hellothere.gif)
+<picture>
+  <img alt="Hello There" src="./assets/hellothere.gif" />
+</picture>
 
 - 🤖 &nbsp;Currently Embedded Dev @TEXAcom
 - 🌌 &nbsp;StarWars fan
