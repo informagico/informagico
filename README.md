@@ -11,23 +11,25 @@
 
 ### 🔌 &nbsp;Connections
 
-[<img align="left" alt="informagico | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="informagico | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][instagram]
+[<img align="left" alt="informagico | LinkedIn" width="26px" src="https://cdn.simpleicons.org/linkedin/black/white" />][linkedin]
+[<img align="left" alt="informagico | Instagram" width="26px" src="https://cdn.simpleicons.org/instagram/black/white" />][instagram]
 
 <br />
 <br />
 
 ### 🥷 &nbsp;Weapons
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
-<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
-<img align="left" alt="SVN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/subversion.svg" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/csharp.svg" />
-<img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />
+<div style="background: #112233;">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/black/white" />
+<img align="left" alt="Visual Studio" width="26px" src="https://cdn.simpleicons.org/visualstudio/black/white" />
+<img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git/black/white" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/black/white" />
+<img align="left" alt="SVN" width="26px" src="https://cdn.simpleicons.org/subversion/black/white" />
+<img align="left" alt="C#" width="26px" src="https://cdn.simpleicons.org/csharp/black/white" />
+<img align="left" alt=".NET" width="26px" src="https://cdn.simpleicons.org/dotnet/black/white" />
+<img align="left" alt="C" width="26px" src="https://cdn.simpleicons.org/c/black/white" />
+<img align="left" alt="C++" width="26px" src="https://cdn.simpleicons.org/cplusplus/black/white" />
+</div>
 
 <br />
 <br />
