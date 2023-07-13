@@ -19,7 +19,6 @@
 
 ### 🥷 &nbsp;Weapons
 
-<div style="background: #112233;">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/black/white" />
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.simpleicons.org/visualstudio/black/white" />
 <img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git/black/white" />
@@ -29,7 +28,6 @@
 <img align="left" alt=".NET" width="26px" src="https://cdn.simpleicons.org/dotnet/black/white" />
 <img align="left" alt="C" width="26px" src="https://cdn.simpleicons.org/c/black/white" />
 <img align="left" alt="C++" width="26px" src="https://cdn.simpleicons.org/cplusplus/black/white" />
-</div>
 
 <br />
 <br />
