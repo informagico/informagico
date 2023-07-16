@@ -42,11 +42,11 @@
 ### GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/lukeliasi/binance-dca-bot/issues/23) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
-2. 💪 Opened PR [#22](https://github.com/lukeliasi/binance-dca-bot/pull/22) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
-3. 🗣 Commented on [#10](https://github.com/lukeliasi/binance-dca-bot/issues/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
-4. 💪 Opened PR [#18](https://github.com/lukeliasi/binance-dca-bot/pull/18) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
-5. ❌ Closed PR [#10](https://github.com/lukeliasi/binance-dca-bot/pull/10) in [lukeliasi/binance-dca-bot](https://github.com/lukeliasi/binance-dca-bot)
+1. 💪 Opened PR [#33](https://github.com/JulienCroain/private-extension-manager/pull/33) in [JulienCroain/private-extension-manager](https://github.com/JulienCroain/private-extension-manager)
+2. 💪 Opened PR [#34](https://github.com/amakvana/EzYuzu/pull/34) in [amakvana/EzYuzu](https://github.com/amakvana/EzYuzu)
+3. 🗣 Commented on [#30](https://github.com/JulienCroain/private-extension-manager/issues/30#issuecomment-1553425972) in [JulienCroain/private-extension-manager](https://github.com/JulienCroain/private-extension-manager)
+4. 🎉 Merged PR [#1](https://github.com/informagico/private-extension-manager/pull/1) in [informagico/private-extension-manager](https://github.com/informagico/private-extension-manager)
+5. 💪 Opened PR [#1](https://github.com/informagico/private-extension-manager/pull/1) in [informagico/private-extension-manager](https://github.com/informagico/private-extension-manager)
 <!--END_SECTION:activity-->
 
 ---
