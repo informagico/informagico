@@ -4,6 +4,9 @@
   <img alt="Hello There" src="./assets/hellothere.gif" />
 </picture>
 
+<br />
+<br />
+
 - 🤖 &nbsp;Currently Embedded Dev @TEXAcom
 - 🌌 &nbsp;StarWars fan
 - 🍣 &nbsp;Sushi addicted
