@@ -21,7 +21,7 @@
 
 ### 🥷 &nbsp;Weapons
 
-<picture><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/black#gh-light-mode-only" /></picture>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/black#gh-light-mode-only" />
 <picture><img align="left" alt="Visual Studio" width="26px" src="https://cdn.simpleicons.org/visualstudio/black#gh-light-mode-only" /></picture>
 <picture><img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git/black#gh-light-mode-only" /></picture>
 <picture><img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/black#gh-light-mode-only" /></picture>
