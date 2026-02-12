@@ -24,7 +24,7 @@
 
 ### 🥷 &nbsp;Weapons
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/black/white" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.simpleicons.org/visualstudio/black/white" />
 <img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git/black/white" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/black/white" />
