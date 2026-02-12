@@ -16,7 +16,7 @@
 
 ### 🔌 &nbsp;Connections
 
-[<img align="left" alt="informagico | LinkedIn" width="26px" src="https://cdn.simpleicons.org/linkedin/black/white" />][linkedin]
+[<img align="left" alt="informagico | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="informagico | Instagram" width="26px" src="https://cdn.simpleicons.org/instagram/black/white" />][instagram]
 
 <br />
@@ -24,16 +24,19 @@
 
 ### 🥷 &nbsp;Weapons
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg" />
-<img align="left" alt="Visual Studio" width="26px" src="https://cdn.simpleicons.org/visualstudio/black/white" />
-<img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git/black/white" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/black/white" />
-<img align="left" alt="SVN" width="26px" src="https://cdn.simpleicons.org/subversion/black/white" />
-<img align="left" alt="C#" width="26px" src="https://cdn.simpleicons.org/csharp/black/white" />
-<img align="left" alt=".NET" width="26px" src="https://cdn.simpleicons.org/dotnet/black/white" />
-<img align="left" alt="C" width="26px" src="https://cdn.simpleicons.org/c/black/white" />
-<img align="left" alt="C++" width="26px" src="https://cdn.simpleicons.org/cplusplus/black/white" />
-  
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="SVN" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg" />
+<img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="nuget" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" />
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="azuredevops" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+<img align="left" alt="proxmox" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" />
+
 <br />
 <br />
 
